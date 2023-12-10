@@ -11,3 +11,7 @@ This project is focused on creating a mobile application that provides contact, 
 #Testing
 
 Unit tests are written to verify that each component meets the customer’s requirements.
+
+How can I ensure that my code, program, or software is functional and secure?
+How do I interpret user needs and incorporate them into a program?
+How do I approach designing software?
